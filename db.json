@@ -2,7 +2,7 @@
   "items": [
     {
       "id": "8631",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": " ایفون ۱۲۸ گیگ قرمز",
       "brand": "apple",
       "price": "9000",
       "type": "mobile",
@@ -10,107 +10,107 @@
     },
     {
       "id": "2126",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "سامسونگ ۱۲۸ گیگ قرمز",
+      "brand": "samsung",
       "price": "3000",
-      "type": "mobile",
-      "color": "red"
-    },
-    {
-      "id": "087b",
-      "name": "سامسونگ 526 قرمز گیگ ",
-      "brand": "apple",
-      "price": "1000",
       "type": "laptop",
       "color": "red"
     },
     {
+      "id": "087b",
+      "name": "شیایومی 526 قرمز گیگ ",
+      "brand": "xiaomi",
+      "price": "1000",
+      "type": "watch",
+      "color": "red"
+    },
+    {
       "id": "bece",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "ایفون ۱۲۸ گیگ قرمز",
       "brand": "apple",
-      "price": "5000",
+      "price": "3500",
       "type": "mobile",
       "color": "red"
     },
     {
       "id": "cfd3",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "ایفون ۱۲۸ گیگ ابی",
       "brand": "apple",
-      "price": "5000",
+      "price": "6500",
       "type": "mobile",
-      "color": "red"
+      "color": "blue"
     },
     {
       "id": "ddc0",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "ایفون ۱۲۸ گیگ زرد",
       "brand": "apple",
-      "price": "5000",
+      "price": "7200",
       "type": "mobile",
-      "color": "red"
+      "color": "yellow"
     },
     {
       "id": "b039",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "ایفون ۱۲۸ گیگ ابی",
       "brand": "apple",
-      "price": "5000",
+      "price": "11100",
       "type": "mobile",
-      "color": "red"
+      "color": "blue"
     },
     {
       "id": "0fc8",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "ایفون ۱۲۸ گیگ زرد",
       "brand": "apple",
-      "price": "5000",
+      "price": "4600",
       "type": "mobile",
-      "color": "red"
+      "color": "yellow"
     },
     {
       "id": "5151",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
-      "price": "5000",
+      "name": "سامسونگ ۱۲۸ گیگ ابی",
+      "brand": "samsung",
+      "price": "10000",
       "type": "mobile",
-      "color": "red"
+      "color": "blue"
     },
     {
       "id": "3706",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
-      "price": "5000",
+      "name": "سامسونگ ۱۲۸ گیگ ابی",
+      "brand": "samsung",
+      "price": "6700",
       "type": "mobile",
-      "color": "red"
+      "color": "blue"
     },
     {
       "id": "da00",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "سامسونگ ۱۲۸ گیگ زرد",
+      "brand": "samsung",
       "price": "5000",
       "type": "mobile",
-      "color": "red"
+      "color": "yellow"
     },
     {
       "id": "08d2",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "سامسونگ ۱۲۸ گیگ زرد",
+      "brand": "samsung",
       "price": "5000",
       "type": "mobile",
-      "color": "red"
+      "color": "yellow"
     },
     {
       "id": "0421",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "لبتاب اپل ۱۲۸ گیگ قرمز",
       "brand": "apple",
       "price": "5000",
-      "type": "mobile",
+      "type": "laptop",
       "color": "red"
     },
     {
       "id": "ba63",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "لبتاب اپل ۱۲۸ گیگ زرد",
       "brand": "apple",
-      "price": "5000",
-      "type": "mobile",
-      "color": "red"
+      "price": "9000",
+      "type": "laptop",
+      "color": "yellow"
     },
     {
       "id": "dc75",
@@ -122,50 +122,50 @@
     },
     {
       "id": "1c8f",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "لبتاب سامسونگ ۱۲۸ گیگ ابی",
+      "brand": "samsung",
       "price": "5000",
-      "type": "mobile",
-      "color": "red"
+      "type": "laptop",
+      "color": "blue"
     },
     {
       "id": "2cbb",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "لبتاب اپل ۱۲۸ گیگ  زرد",
       "brand": "apple",
       "price": "5000",
-      "type": "mobile",
-      "color": "red"
+      "type": "laptop",
+      "color": "yellow"
     },
     {
       "id": "8f82",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "ساعت سامسونگ ابی ۱۲۸ گیگ ",
+      "brand": "samsung",
       "price": "5000",
-      "type": "mobile",
-      "color": "red"
+      "type": "watch",
+      "color": "blue"
     },
     {
       "id": "1106",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "ساعت سامسونگ قرمز ۱۲۸ گیگ ",
+      "brand": "samsung",
       "price": "5000",
-      "type": "mobile",
+      "type": "watch",
       "color": "red"
     },
     {
       "id": "a6c8",
-      "name": "ایفون ۱۲۸ گیگ ",
+      "name": "ساعت اپل زرد ۱۲۸ گیگ ",
       "brand": "apple",
-      "price": "5000",
-      "type": "mobile",
-      "color": "red"
+      "price": "9200",
+      "type": "watch",
+      "color": "yellow"
     },
     {
       "id": "3c84",
-      "name": "ایفون ۱۲۸ گیگ ",
-      "brand": "apple",
+      "name": "ساعت شیایومی قرمز ۱۲۸ گیگ ",
+      "brand": "xiaomi",
       "price": "5000",
-      "type": "mobile",
+      "type": "watch",
       "color": "red"
     },
     {
